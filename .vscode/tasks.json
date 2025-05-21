@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Job Scraper",
+			"type": "shell",
+			"command": "python3",
+			"args": [
+				"src/main.py"
+			],
+			"group": "build",
+			"problemMatcher": []
+		}
+	]
+}

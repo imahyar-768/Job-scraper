@@ -1,0 +1,17 @@
+README.md
+setup.py
+job_scraper.egg-info/PKG-INFO
+job_scraper.egg-info/SOURCES.txt
+job_scraper.egg-info/dependency_links.txt
+job_scraper.egg-info/requires.txt
+job_scraper.egg-info/top_level.txt
+src/__init__.py
+src/main.py
+src/settings.py
+src/models/__init__.py
+src/models/job.py
+src/spiders/__init__.py
+src/spiders/base_spider.py
+src/spiders/linkedin.py
+src/utils/__init__.py
+src/utils/database.py

@@ -1,0 +1,13 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8
+Accept-Language: fa-IR,fa;q=0.9,en-US;q=0.8,en;q=0.7
+Cache-Control: no-cache
+Connection: keep-alive
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+Referer: https://jobinja.ir/
+Accept-Encoding: gzip, deflate
+Cookie: locale=fa; country=IR; XSRF-TOKEN=eyJpdiI6IlpET3RvTkU3ZEVwdmRwYk5FOE5pMEE9PSIsInZhbHVlIjoiWlwvb1ZaSUE3YnQ4d3QzT1hwbDR5VVh3S2Y3dHcwbVFaOUVldERzanJoMzZKc1NTMFhMZENuM0NKdm9oaXZobXM5SmdpSk94TnJpN0l1cndWKzNMZldBPT0iLCJtYWMiOiI5N2QzZDM0MWFkZmY5MTY1ZmY2MWFiN2YxYzg5YWJjZTIwM2ZhMWJkMGEzZjljNzk4ODYxNDc3NWQ1N2QxMWRmIn0%3D; JSESSID=eyJpdiI6IjNEZEVxZjlnd2RxNXV6NzRQbEplbmc9PSIsInZhbHVlIjoibzVla2tpNDhJMjhUMldDZ2lqT3VJa2ZEUzBwM3FUNzB5alpieThlMnpacnZmaThqZlwvRXlwY1g4ZTl6TjZaMkY4MlZHZ2FcL3BqNEJRYjRoRjJ3UVBwZz09IiwibWFjIjoiZTk1NTgwYTdmY2Q3OGY4NzkwZGVjZDBmOWVmYTBkNTdhMjBhMjgxZjVmZWIxNjU2YTY2ZjgzZWVkMzJkNDdhMyJ9

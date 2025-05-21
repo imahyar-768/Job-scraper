@@ -1,0 +1,19 @@
+Date: Wed, 21 May 2025 19:45:41 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: private, must-revalidate
+Etag: W/"295482e977cc3e0525fee326b5e14393"
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IkprdzVMZ3p4Y1IwVWJPTlVzaTdQdVE9PSIsInZhbHVlIjoiclBvMkFIQVdNUTA0T2pXTlBLcXRNeDcwclZsMmFHV00yN3RPajd3OTdYVDZJd04rM241MGV5Vkc3djRsM2lYcldUK21BeEllU3BJUGlSdGhCd3ZHTGc9PSIsIm1hYyI6Ijg0OGI2ZWY4OGEzM2ZjMGYxYjQ2MDY0ZTg4MWQ5OWRkODljOWYwZjI5ODIzZTk0NTNmMjViMDZmODAzNTg0MzUifQ%3D%3D; expires=Thu, 22-May-2025 07:45:41 GMT; Max-Age=43200; path=/; SameSite=Lax; domain=.jobinja.ir
+Set-Cookie: JSESSID=eyJpdiI6IjlqaldpUVl0OStxc1JCNGpKR0pEZGc9PSIsInZhbHVlIjoiN0djalM3NkRTYm82ZVJieUtWUk43ek9zWG5KMWNBZjMxZGN3WUlmQ0VcL2p5RTBpNm9UMGEzVE9tc2dnWDVCU2dTd2toUHZ3c2lUZVwvTDQ1K3NmZ1IyQT09IiwibWFjIjoiOGE4YzVjNGNlNTA3NTZlZjI0ZmYxMDU3N2U1ZmZkNTljNDIwYjAwOTVkMzZjNmFkMmJiZmU2YWY4YmY5MjMyOSJ9; expires=Thu, 22-May-2025 01:45:41 GMT; Max-Age=21600; path=/; SameSite=Lax; domain=.jobinja.ir; HttpOnly
+X-Took: 0.158
+X-Frame-Options: DENY
+Content-Security-Policy: script-src 'self' 'unsafe-inline' 'unsafe-eval' https://eu-assets.i.posthog.com  https://eu.i.posthog.com  https://script.hotjar.com https://static.hotjar.com https://fpnpmcdn.net https://jobinja.ir https://panel.jobinja.ir https://www.googletagmanager.com https://s1.mediaad.org https://cdn.yektanet.com https://www.google.com https://www.gstatic.com https://matomo.jjcloud.ir https://matomo.jobinjacdn.com;
+Content-Encoding: gzip
+X-Xss-Protection: 1; mode=block
+Alt-Svc: h3=":443"; ma=86400
+Server: ArvanCloud
+Server-Timing: total;dur=168
+X-Cache: BYPASS
+X-Request-Id: cd8f94e7c2a66ad6c4f7baec722cff8b
+X-Sid: 2062

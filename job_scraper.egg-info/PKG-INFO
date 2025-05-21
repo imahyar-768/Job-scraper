@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: job-scraper
+Version: 0.1
+Requires-Dist: scrapy>=2.13.0
+Requires-Dist: sqlalchemy>=2.0.41
+Requires-Dist: beautifulsoup4>=4.13.4
+Requires-Dist: python-dotenv>=1.0.0
+Dynamic: requires-dist
